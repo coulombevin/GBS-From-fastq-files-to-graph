@@ -14,6 +14,10 @@ To fullfil the prerequisite you will need your sequencing data and phenotyping d
 ### Softwares
 | Software | Use |
 | :---: | --- |
+| [Sabre][SabreREF] | Sabre is a barcode demultiplexing and trimming tool for FastQ files |
+| [Cutadapt][CutadaptREF] | Cutadapt is a |
+|  |  |
+|  |  |
 | [BWA][BWAREF] | BWA will be use  |
 |  |  |
 |  |  |
@@ -59,6 +63,8 @@ This type of compressed file (.gz) can be unziped usig gunzip (gzip) function. U
 
 
 
+[SabreREF]: https://github.com/najoshi/sabre
+[CutadaptREF]: https://cutadapt.readthedocs.io/en/stable/index.html
 [BWAREF]: https://www.mozilla.org
 
 
