@@ -16,7 +16,7 @@ To fullfil the prerequisite you will need your sequencing data and phenotyping d
 | :---: | --- |
 | [Sabre][SabreREF] | Sabre is a barcode demultiplexing and trimming tool for FastQ files. |
 | [Cutadapt][CutadaptREF] | Cutadapt is a tool that finds and removes adapter sequences, primers, poly-A tails and other types of unwanted sequence from your high-throughput sequencing reads. |
-| [BWA][bwaREF] |  |
+| [BWA][bwaREF] | BWA is a software package for mapping low-divergent sequences against a large reference genome. |
 |  |  |
 |  |  |
 |  |  |
